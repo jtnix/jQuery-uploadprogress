@@ -1,0 +1,5 @@
+experimental jQuery plugin for experimental PHP PECL module
+enables creation of an upload progress meter that does not require Flash.
+
+Please see:  http://nixboxdesigns.com/demos/jquery-uploadprogress.php
+for tutorials, options manual and support information.
